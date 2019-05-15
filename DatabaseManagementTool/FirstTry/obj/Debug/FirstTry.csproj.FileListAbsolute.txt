@@ -1,0 +1,9 @@
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\bin\Debug\FirstTry.exe.config
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\bin\Debug\FirstTry.exe
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\bin\Debug\FirstTry.pdb
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\bin\Debug\Npgsql.dll
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\obj\Debug\FirstTry.csprojAssemblyReference.cache
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\obj\Debug\FirstTry.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\obj\Debug\FirstTry.csproj.CopyComplete
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\obj\Debug\FirstTry.exe
+C:\Users\Vincent\Documents\CSHARP\PatientenFilter\DatabaseManagementTool\FirstTry\obj\Debug\FirstTry.pdb
